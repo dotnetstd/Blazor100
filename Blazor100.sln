@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorVirtualization", "b24
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test01NCalc", "Test01NCalc\Test01NCalc.csproj", "{E01A247E-F740-4BE5-AE15-5E4DE518CB29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootstrapBlazorApp1.Server", "BootstrapBlazorApp1\BootstrapBlazorApp1.Server\BootstrapBlazorApp1.Server.csproj", "{B5B544D6-9763-4579-B38E-8A92B78AAE4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -345,6 +347,10 @@ Global
 		{E01A247E-F740-4BE5-AE15-5E4DE518CB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E01A247E-F740-4BE5-AE15-5E4DE518CB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E01A247E-F740-4BE5-AE15-5E4DE518CB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B544D6-9763-4579-B38E-8A92B78AAE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B544D6-9763-4579-B38E-8A92B78AAE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B544D6-9763-4579-B38E-8A92B78AAE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B544D6-9763-4579-B38E-8A92B78AAE4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
